@@ -21,6 +21,4 @@
     <li>Report Generation: Using the fpdf library, it creates a new PDF document. It populates the PDF with a title and formatted sections presenting the calculated key metrics and the sorted lists of popular pages and locations. The final report is saved as website_traffic_report.pdf.</li>
 </ul>
 
-![Sample PDF Report](Automated_Report/report.png)
-
 
