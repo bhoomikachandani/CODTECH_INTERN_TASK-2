@@ -1,7 +1,7 @@
-## Task 2 - Automated Reprt Generation 
+## Task 2 - Automated Report Generation 
 
 <h3>Website Traffic Analysis Report Generator</h3>
-<br>
+
 <h4>CodTech IT Solutions Internship Task</h4>
 <p>This project is a Python script developed as part of my internship at CodTech IT Solutions. It is designed to analyze website traffic data from a CSV file and generate a professional, well-structured PDF report. The tool helps to quickly understand key metrics and insights from raw data.</p>
 <h3>Features</h3>
@@ -21,6 +21,6 @@
     <li>Report Generation: Using the fpdf library, it creates a new PDF document. It populates the PDF with a title and formatted sections presenting the calculated key metrics and the sorted lists of popular pages and locations. The final report is saved as website_traffic_report.pdf.</li>
 </ul>
 
-<img src="C:\Users\bhoomika_chandani\Pictures\Screenshots\report.png"> Generated Report<i/mg>
+<img src="C:\Users\bhoomika_chandani\Pictures\Screenshots\report.png"> Generated Report</img>
 
 
